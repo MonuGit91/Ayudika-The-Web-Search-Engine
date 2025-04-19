@@ -18,7 +18,7 @@ import static com.webSearchEngine.services.Others.*;
 import static com.webSearchEngine.services.StaticVariables.*;
 
 //@RestController
-@RequestMapping("/www.ayudika.com")
+@RequestMapping("/api/v1/ayudika")
 @Controller
 public class RequestController {
     @Autowired
