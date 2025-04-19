@@ -4,7 +4,7 @@ import java.io.*;
 
 public class readWrite {
     public static void update() {
-        String filePath = "/Users/narenderkumarchoudhary/Public/education/java/intellijJava/searchEngine/crawler/src/main/java/com/fileInput/input.txt";
+        String filePath = "/Users/narenderkumarchoudhary/Public/Education/Java/intellijJava/SearchEngine/AyudikaTheWebSearchEngine/SearchEngineMySqlCRUD_project/src/main/java/com/basicCrudOperation/services/fileInput/input.txt";
         String newString = "https://www.tutorialspoint.com/";
 
         try {

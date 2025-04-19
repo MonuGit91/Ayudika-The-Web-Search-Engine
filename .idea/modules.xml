@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Ayudika-The-Web-Search-Engine.iml" filepath="$PROJECT_DIR$/.idea/Ayudika-The-Web-Search-Engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project SearchEngineMySqlCRUD/crudOperations.iml" filepath="$PROJECT_DIR$/project SearchEngineMySqlCRUD/crudOperations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webSearchEngine/webSearchEngine.iml" filepath="$PROJECT_DIR$/webSearchEngine/webSearchEngine.iml" />
+    </modules>
+  </component>
+</project>
